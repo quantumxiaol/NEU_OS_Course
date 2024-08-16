@@ -1,4 +1,4 @@
-#实验3：进程同步和互斥
+# 实验3：进程同步和互斥
 
 题目
 
@@ -59,3 +59,7 @@
 使用‘c’键则运行一次消费者进程；
 使用‘e’键则退出程序；
 通过屏幕可以观察到两个进程的状态和缓冲区变化的情况。 
+
+![消费者](https://github.com/quantumxiaol/NEU_OS_Course/blob/main/task3/%E8%BF%9B%E7%A8%8B%E5%90%8C%E6%AD%A5%E5%92%8C%E4%BA%92%E6%96%A5%E6%B6%88%E8%B4%B9%E8%80%85.png)
+
+![生产者](https://github.com/quantumxiaol/NEU_OS_Course/blob/main/task3/%E8%BF%9B%E7%A8%8B%E5%90%8C%E6%AD%A5%E5%92%8C%E4%BA%92%E6%96%A5%E7%94%9F%E4%BA%A7%E8%80%85.png)
